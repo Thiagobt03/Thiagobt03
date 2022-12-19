@@ -15,7 +15,7 @@
   ### Pra conteúdo sobre programação me segue nas redes abaixo!
  
 <div> 
-  <a href="https://https://www.linkedin.com/in/thiago-batista-153a981a1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  <a href="https://www.linkedin.com/in/thiago-batista-153a981a1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
  
   ![Snake animation](https://github.com/Thiagobt03/Thiagobt03/blob/output/github-contribution-grid-snake.svg)
 
